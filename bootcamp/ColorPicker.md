@@ -1,3 +1,7 @@
+# ColorPicker
+
+ColorPicker allows the end user to pick any color with the opacity. 
+
 ## Usage/Examples
 
 ```swift
